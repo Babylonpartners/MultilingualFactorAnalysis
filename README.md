@@ -1,6 +1,6 @@
 ## Accepted submission <1022> for ACL Conference (Fork of MUSE repository to reproduce experiments for submission)
 
-This is a fork of the MUSE repository with changes to reproduce experiments of paper <1022> accepted to ACL 2019. Both MUSE dataset results and DINU 2014 can be reproduced with this repository.
+ This is a fork of the MUSE repository with changes to reproduce experiments of paper <1022> accepted to ACL 2019. Both MUSE dataset results and DINU 2014 can be reproduced with this repository.
 
 The file containing the implementation of the methods in the paper (IBFA and MBFA) is `alignment_functions.py`, the function that builds the dictionary of triples is at the bottom of `utils.py`, everything else is to reproduce experimental results.
 
