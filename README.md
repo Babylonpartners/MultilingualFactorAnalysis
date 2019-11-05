@@ -18,7 +18,7 @@ After cloning the repository, the following steps should be enough to set up the
 2. Activate it: `source env/bin/activate`
 3. Install required modules: `pip install -r requirements.txt`
 4. Download evaluation datasets and all relevant monolingual word embeddings (refer to the original MUSE instructions below)
-5. Download the Dinu et al. (2014) embeddings and dictionary from http://clic.cimec.unitn.it/~georgiana.dinu/down/. 
+5. Download the Dinu et al. (2014) embeddings and dictionary from https://zenodo.org/record/2654864 (If the link does not work, refer to https://arxiv.org/pdf/1412.6568.pdf instead).
 
 After installing the prerequisites and downloading the relevant embeddings and dictionaries, run:
 ```
