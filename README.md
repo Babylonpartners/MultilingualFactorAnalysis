@@ -1,3 +1,6 @@
+> **Note**
+> This repository is no longer actively maintained by Babylon Health. For further assistance, reach out to the paper authors.
+
 ## Accepted submission <1022> for ACL Conference (Fork of MUSE repository to reproduce experiments for submission)
 
 This is a fork of the MUSE repository with changes to reproduce experiments of [Multilingual Factor Analysis](https://arxiv.org/pdf/1905.05547.pdf) presented at ACL 2019. Both MUSE and DINU 2014 dataset results can be reproduced with this repository.
